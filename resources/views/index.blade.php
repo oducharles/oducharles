@@ -435,7 +435,7 @@
                 </section> --><!-- End Services Section -->
 
                 <!-- ======= Testimonials Section ======= -->
-                <section id="testimonials" class="testimonials section-bg">
+                <!-- <section id="testimonials" class="testimonials section-bg">
                   <div class="container">
 
                     <div class="section-title">
@@ -492,7 +492,7 @@
                     </div>
 
                   </div>
-                </section><!-- End Testimonials Section -->
+                </section> --><!-- End Testimonials Section -->
 
                 <!-- ======= Contact Section ======= -->
                 <section id="contact" class="contact">
@@ -500,7 +500,7 @@
 
                     <div class="section-title">
                       <h2>Contact</h2>
-                      <p>For inquiries about the services I can offer or to hire my services, please dont hesitate to use the form below to reach out to me.</p>
+                      <p>For inquiries about the services I can offer or to hire my services, please dont hesitate to reach out to me with message.</p>
                     </div>
 
                     <div class="row" data-aos="fade-in">
@@ -533,6 +533,7 @@
 
                       <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
                         <form action="forms/contact" method="POST" role="form" class="php-email-form">
+                          @csrf
                           <div class="form-row">
                             <div class="form-group col-md-6">
                               <label for="name">Your Name</label>
