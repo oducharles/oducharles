@@ -38,10 +38,10 @@
                         </p>
                         <p class="font-italic">
                           <i class="bx bx-check"></i>
-                          Proven experience with end user systems interactions, user training and system support and has abit if user beahviour when it comes to use of softwares.
+                          Proven experience with end user software interactions, user training and system support with close considerations of user behaviour when it comes to software usage.
                         </p>
 
-                        <p>I have also grown to understand that Reliability, Time management, Team work, Strong analytical skill and demonstrated talent for developing new skills is paramount in the field of software engineering.</p>
+                        <p>I have grown to understand that Strong analytical skill and demonstrated talent for developing new skills, Reliability, Time management, Team work, is paramount in the field of software engineering, all to which I closely attach myself.</p>
                         <div class="row">
                           <div class="col-lg-7">
                             <ul>
