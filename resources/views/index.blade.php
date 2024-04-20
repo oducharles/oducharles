@@ -208,7 +208,7 @@
                         <h3 class="resume-title">Education</h3>
                         <div class="resume-item">
                           <span class="h5">Post Graduate Diploma in Business Intelligence and Data Analytics</span>
-                          <br><h5>Joining - Sept, 2023</h5>
+                          <br><h5>Sept, 2023 - to date</h5>
                           <p><em>University of the Sacred Heart, Gulu, Uganda</em></p>
                           <p></p>
                         </div>
