@@ -27,6 +27,35 @@
   <!-- Template Main CSS File -->
   <link href="{{ asset('assets/css/style.css') }}" rel="stylesheet">
   
+  <style>
+    /* Define Century Gothic Normal font */
+    @font-face {
+        font-family: 'Century Gothic';
+        src: url({{ asset('assets/Century-Gothic/centurygothic.ttf') }}) format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+    /* Define Century Gothic Bold font */
+    @font-face {
+        font-family: 'Century Gothic Bold';
+        src: url({{ asset('assets/Century-Gothic/centurygothic_bold.ttf') }}) format('truetype');
+    }
+
+    body {
+      /*display: flex;*/
+      /*align-items: center;*/
+      justify-content: center;
+      font-family: 'Century Gothic';
+      line-height: 2.0;
+      /*padding: 2em;*/
+    }
+    
+    .bold-text {
+      font-family: 'Century Gothic Bold';
+      font-weight: bold;
+      font-style: normal;
+    }
+  </style>
 </head>
 
 <body>
@@ -69,8 +98,14 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>ODUR Charles Lwanga</h1>
-      <p>I'm a - <span class="typed" data-typed-items="LEMP Full Stack Developer, Web Systems Analyst &amp; Designer, Database Administrator, Programmer"></span></p>
+      <h1 class="bold-text">ODUR Charles Lwanga</h1>
+      <p>
+        I'm a - 
+        <span class="typed"
+              data-typed-items="LEMP Full Stack Developer, Systems Analyst & Designer, Database Administrator, DevOps Engineer, Programmer">
+                
+        </span>
+      </p>
     </div>
   </section><!-- End Hero -->
 
@@ -110,6 +145,12 @@
   <!-- Template Main JS File -->
   <script src="{{ asset('assets/js/main.js') }}"></script>
 
+  @stack('scripts')
+  <script>
+    $(function() {
+
+    });
+  </script>
 </body>
 
 </html>

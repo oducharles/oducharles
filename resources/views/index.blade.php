@@ -10,38 +10,40 @@
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>About</h2>
+                      <h2 class="bold-text">About</h2>
                       <p>I am experienced in designing and developing software for business solutions ranging from Accounting, Logistics, Sales, HR, Pharmaceuticals, Banking, Blogs and Informative Websites. I possess a relatively comprehensive knowledge in software Engineering  with a glance in multiple settings, and adaptive to new emerging and trending technologies for designing and developing latest and up-to-date software.</p>
                     </div>
 
                     <div class="row">
                       <div class="col-lg-4" data-aos="fade-right">
-                        <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+                        <img src="assets/img/new-profile-img.jpg" class="img-fluid" alt="">
                       </div>
                       <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-                        <h3>Profile</h3>
+                        <h3 class="bold-text">Profile</h3>
                         <p class="font-italic">
                           <i class="bx bx-check"></i> 
-                          Highly skilled in analyzing, designing, developing, testing and managing software
+                          I am a seasoned and forward-looking Software Engineer with 5+ years’ background in building, executing and managing innovative software solutions for business productivity
                         </p>
                         <p class="font-italic">
                           <i class="bx bx-check"></i> 
-                          Thorough understanding of data structure and data security and need for backups.
+                          Highly experienced in all aspects of the software development life cycle and end-to-end project management, from concept generation through evelopment to delivery, while observing professional code of conduct and ethics
                         </p>
                         <p class="font-italic"> 
                           <i class="bx bx-check"></i>
-                          Knowledgeable in back-end systems development best practices with attention to details.
-                          </p>
+                          Highly knowledgeable in concepts of data, database management, data warehousing, data mining, data analytics and knowledge transfer
+                        </p>
                         <p class="font-italic"> 
                           <i class="bx bx-check"></i>
-                          Hands-on development experience in addition to software troubleshooting and preventive machine maintenance
+                          Consistently recognized as a hands-on and competent leader, skilled at coordinating cross-functional teams in a fast-paced, deadline-driven environment to steer timely project completion within budgetary constraints while embracing new challenges and skills
                         </p>
                         <p class="font-italic">
                           <i class="bx bx-check"></i>
-                          Proven experience with end user software interactions, user training and system support with close considerations of user behaviour when it comes to software usage.
+                          A fast learner who thrives on solving problems and providing unparalleled technical assistance to colleagues and clients. With ability and readiness to develop good rapport with clients, end users, people from various cultures and socioeconomic settings and colleagues
                         </p>
-
-                        <p>I have grown to understand that Strong analytical skill and demonstrated talent for developing new skills, Reliability, Time management, Team work, is paramount in the field of software engineering, all to which I closely attach myself.</p>
+                        <p class="font-italic">
+                          <i class="bx bx-check"></i>
+                          Attentive to every little detail as pertains issues related to software, systems, technology and IT infrastructures. And the eagerness to learn new emerging technologies.
+                        </p>
                         <div class="row">
                           <div class="col-lg-7">
                             <ul>
@@ -57,6 +59,8 @@
                         </div>
 
                       </div>
+
+                      <p>I have grown to understand that Strong analytical skill and demonstrated talent for developing new skills, Reliability, Time management, Team work, is paramount in the field of software engineering, all to which I closely attach myself.</p>
                     </div>
 
                   </div>
@@ -71,15 +75,15 @@
                       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
                         <div class="count-box">
                           <i class="icofont-document-folder"></i>
-                          <span data-toggle="counter-up">9</span>
-                          <p><strong>Projects Handled</strong> <!-- With full support &amp; prompt updates --></p>
+                          <span data-toggle="counter-up">15 <small><i class="bx bx-plus"></i></small> </span>
+                          <p><strong>Projects</strong> With full support &amp; prompt updates</p>
                         </div>
                       </div>
 
                       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
                         <div class="count-box">
                           <i class="icofont-live-support"></i>
-                          <span data-toggle="counter-up">2,080</span>
+                          <span data-toggle="counter-up">5,000</span>
                           <p><strong>Hours Of Support</strong> <!-- aut commodi quaerat --></p>
                         </div>
                       </div>
@@ -87,8 +91,8 @@
                       <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
                         <div class="count-box">
                           <i class="icofont-simple-smile"></i>
-                          <span data-toggle="counter-up">3</span>
-                          <p><strong>Joined Projects</strong> <!-- consequuntur quae --></p>
+                          <span data-toggle="counter-up">5</span>
+                          <p><strong>Colaborative Projects</strong> with organized team effort</p>
                         </div>
                       </div>
 
@@ -96,7 +100,7 @@
                         <div class="count-box">
                           <i class="icofont-users-alt-5"></i>
                           <span data-toggle="counter-up">5</span>
-                          <p><strong>Programming languages</strong> <!-- rerum asperiores dolor --></p>
+                          <p><strong>Programming languages</strong> with upto date technologies</p>
                         </div>
                       </div>
 
@@ -111,14 +115,17 @@
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>Ability &amp; Skills</h2>
+                      <h2 class="bold-text">Ability &amp; Skills</h2>
                       <ul>
-                        <li>Software Analysis, Design, Development, Testing, Deployment and Maintanence skills.</li> 
-                        <li>Programming skills in php (especially laravel framework), JavaScript, R programming.</li> 
-                        <li>Database manipulation skills (especially mysql and Mariadb).</li> 
-                        <li>Knowledge on hardware and software installations, and software/hardware preventive maintenance</li>
-                        <li>Computer applications usage skills (Microsoft office and other software).</li> 
-                        <li>Good Communication skills</li>
+                        <li>Software Dev Lifecycle and Best Practices</li>
+                        <li>Programming Languages - PHP, JavaScript, R</li>
+                        <li>Frameworks – Laravel, JQuery, ReactJS,  AngularJS, Bootstrap Tailwind CSS</li>
+                        <li>Database Administration - MySQL, MariaDB, SQLite</li>
+                        <li>Data Analytics Tools – PowerBI, RStudio</li>
+                        <li>CI/CD & Platforms – Docker, Git, Trello, Github Projects</li>
+                        <li>Cloud Services - Server setup, System hosting, DNS setup, Security and Control</li>
+                        <li>Operating systems: Linux, Windows</li>
+                        <li>Others: DevOps, Agile/Scrum, hardware/software configs</li>
                       </ul>
                     </div>
 
@@ -141,9 +148,16 @@
                         </div>
 
                         <div class="progress">
-                          <span class="skill">R Programming <i class="val">35%</i></span>
+                          <span class="skill">R & RStudio <i class="val">55%</i></span>
                           <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                          </div>
+                        </div>
+
+                        <div class="progress">
+                          <span class="skill">Docker & Containerization <i class="val">75%</i></span>
+                          <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                           </div>
                         </div>
 
@@ -152,9 +166,9 @@
                       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
 
                         <div class="progress">
-                          <span class="skill">CSS <i class="val">90%</i></span>
+                          <span class="skill">PowerBI <i class="val">75%</i></span>
                           <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
                           </div>
                         </div>
 
@@ -166,9 +180,16 @@
                         </div>
 
                         <div class="progress">
-                          <span class="skill"> Adobe Photoshop &amp; Illustrator <i class="val">60%</i></span>
+                          <span class="skill">Cloud Service <i class="val">90%</i></span>
                           <div class="progress-bar-wrap">
-                            <div class="progress-bar" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100"></div>
+                            <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+                          </div>
+                        </div>
+
+                        <div class="progress">
+                          <span class="skill"> Adobe Photoshop &amp; Illustrator <i class="val">50%</i></span>
+                          <div class="progress-bar-wrap">
+                            <div class="progress-bar" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100"></div>
                           </div>
                         </div>
 
@@ -184,77 +205,64 @@
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>Resume</h2>
+                      <h2 class="bold-text">Resume</h2>
                     </div>
 
                     <div class="row">
                       <div class="col-lg-6" data-aos="fade-up">
-                        <h3 class="resume-title">Sumary</h3>
+                        <h3 class="resume-title bold-text">Sumary</h3>
                         <div class="resume-item pb-0">
                           <h4>Odur Charles Lwanga</h4>
-                          <p><em>I have the ability and readiness to develop good rapport with clients, people from various cultures and socioeconomic settings and my workmates.</em></p>
 
-                          <p><em>Innovative and deadline-driven Software Engineer with 4+ years of experience designing and developing user-centered system software from initial concept to final, polished deliverable.</em></p>
-                          <ul>
-                            <li>Languages: Php, Javascript, R</li>
-                            <li>Frameworks: Laravel, ReactJs, AngularJs</li>
-                            <li>Applications: Sublime Text, Visual Studio Code, Web browser(Chrome, Firefox)</li>
-                            <li>Application servers: Nginx</li>
-                            <li>Operating systems: Linux, Windows</li>
-                            <li>Database systems: MySQL, MariaDB</li>
-                          </ul>
+                          <p><em>Experienced Software Engineer with 5+ years in innovative software solutions for business productivity. Skilled in full project lifecycle management, leading cross-functional teams to meet deadlines and budgets. Recognized for hands-on leadership and problem-solving abilities. Quick learner, adept at building rapport with diverse stakeholders. Detail-oriented and reliable, excelling in minimal supervision. Strong data analytics skills and eagerness to learn new technologies.</em></p>
+
                         </div>
 
-                        <h3 class="resume-title">Education</h3>
+                        <h3 class="resume-title bold-text">Education</h3>
                         <div class="resume-item">
                           <span class="h5">Post Graduate Diploma in Business Intelligence and Data Analytics</span>
-                          <br><h5>Sept, 2023 - to date</h5>
+                          <h5>Aug, 2023 - Jan,2025</h5>
                           <p><em>University of the Sacred Heart, Gulu, Uganda</em></p>
                           <p></p>
                         </div>
                         <div class="resume-item">
                           <span class="h5">Bachelors Degree in Software Engineering</span>
-                          <br><h5>2014 - 2018</h5>
+                          <h5>2014 - 2018</h5>
                           <p><em>Makerere University, Kampla, Uganda</em></p>
-                          <p></p>
-                        </div>
-                        <div class="resume-item">
-                          <span class="h5">Uganda Advanced Certificate of Education (UACE)</span>
-                          <br><h5>2011 - 2013</h5>
-                          <p><em>Lubiri Secondary School</em></p>
                           <p></p>
                         </div>
                       </div>
                       <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-                        <h3 class="resume-title">Professional Experience</h3>
+
+                        <h3 class="resume-title bold-text">Professional Experience</h3>
                         <div class="resume-item">
                           <span class="h5">Software Developer</span>
-                          <br><h5>July 2020 - Present</h5>
+                          <h5>Jul 2020 - Present</h5>
                           <p><em>Vendors Point Limited, Uganda </em></p>
-                          <ul>
+                          <!-- <ul>
                             <li>Designed, and developed an Agent Banking Solution </li>
                             <li>Designed, developed, implemented and maintian the <a href="https://delivery.vendors-point.com" target="__blank">delivery system</a> which is part of the Company services</li>
                             <li>Lead in the design, development, and implementation of the company's Social Welfare System </li>
-                          </ul>
+                          </ul> -->
                         </div>
                         <div class="resume-item">
                           <span class="h5">Software Developer</span>
-                          <br><h5> November 2019 - July 2020</h5>
+                          <h5> Nov 2019 - Jul 2020</h5>
                           <p><em>Cargoplus Limited, Uganda </em></p>
-                          <ul>
+                          <!-- <ul>
                             <li>Designed, and developed a Green Leaf System for managing green Tea collection at factory</li>
                             <li>Designed, and developed a company's Requisition System</li>
                             <li>Collaborated in Constructing System Architectural layout, databases designs and User Interfaces design for sales system and tea export system</li>
-                          </ul>
+                          </ul> -->
                         </div>
                         <div class="resume-item">
-                          <span class="h5">Software Developer</span>
-                          <br><h5> October 2020 - June 2021</h5>
+                          <span class="h5">Software & Applications Engineer </span>
+                          <h5> Oct 2020 - Jun 2021</h5>
                           <p><em>Huttec Technologies </em></p>
-                          <ul>
+                          <!-- <ul>
                             <li>Designed, and developed a Human Resource Management system for one of the companies clients</li>
                             <li>Developed the company's Website</li>
-                          </ul>
+                          </ul> -->
                         </div>
                         <!-- <div class="resume-item">
                           <span class="h5">Graphic design specialist</span>
@@ -278,7 +286,7 @@
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>Projects Handled</h2>
+                      <h2 class="bold-text"> Projects </h2>
                       <p>This is an overview of a few of the commendable projects I have worked on so far. Some of which are live and private, others in deployment pipeline and others under development. </p>
                     </div>
 
@@ -286,101 +294,148 @@
                       <div class="col-lg-12 d-flex justify-content-center">
                         <ul id="portfolio-flters">
                           <li data-filter="*" class="filter-active">All</li>
-                          <li data-filter=".filter-priv">Private</li>
-                          <li data-filter=".filter-dev">Dev</li>
-                          <li data-filter=".filter-live">Live</li>
+                          <li data-filter=".filter-individual">Individual</li>
+                          <li data-filter=".filter-colab">Colaborative</li>
+                          <li data-filter=".filter-dev">In Dev</li>
+                          <li data-filter=".filter-live">In Prod</li>
                         </ul>
                       </div>
                     </div>
 
-                    <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+                    <div class="row portfolio-container" id="portfolio-div" data-aos="fade-up" data-aos-delay="100">
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-live">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-live">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/delivery-service.webp" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/delivery-service.webp" data-gall="portfolioGallery" class="venobox" title="Delivery System"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="https://delivery.vendors-point.com" target="__blank" title="Visit"> <small><small><i class="bx bx-link"></i>Delivery</small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/delivery-service.webp" data-gall="portfolioGallery" class="venobox" title="Dispatch and Delivery System">
+                              <small><i class="bx bx-plus"></i></small>
+                            </a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Package Delivery & Tracking</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-dev">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-dev">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/trolley-filled-with-school-supplies.webp" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/trolley-filled-with-school-supplies.webp" data-gall="portfolioGallery" class="venobox" title="Web 3"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="#" title="Visit"><small><small><i class="bx bx-link"></i>Stationery </small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/trolley-filled-with-school-supplies.webp" data-gall="portfolioGallery" class="venobox" title="Stationery Sales Point">
+                              <small><i class="bx bx-plus"></i></small>
+                            </a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Stationery Sales Point</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-dev">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-dev">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/pill-foils-containers.webp" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/pill-foils-containers.webp" data-gall="portfolioGallery" class="venobox" title="App 2"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="#" title="Visit"><small><small> <i class="bx bx-link"></i> Pharmacy </small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/pill-foils-containers.webp" data-gall="portfolioGallery" class="venobox" title="Pharmacy Point Of Sale"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Pharmacy Point Of Sale</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-priv">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/green-tea-plantations.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/green-tea-plantations.jpg" data-gall="portfolioGallery" class="venobox" title="Web 3"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="#" title="Visit"><small><small> <i class="bx bx-link"></i> Green Leaf</small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/green-tea-plantations.jpg" data-gall="portfolioGallery" class="venobox" title="Green Leaf Outgrowers"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Green Leaf Outgrowers</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-priv filter-live">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-live">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/online-transfer.webp" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/online-transfer.webp" data-gall="portfolioGallery" class="venobox" title="Card 2"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="#" title="Visit"><small><small><i class="bx bx-link"></i> MoBanking </small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/online-transfer.webp" data-gall="portfolioGallery" class="venobox" title="Agent Banking Solution"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Agent Banking Solution</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-priv filter-live">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-colab filter-live">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/strong-team.webp" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/strong-team.webp" data-gall="portfolioGallery" class="venobox" title="Web 2"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="portfolio-details.html" title="Visit"><small><small><i class="bx bx-link"></i> H R M </small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/strong-team.webp" data-gall="portfolioGallery" class="venobox" title="Human Resource Mgnt"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Human Resource Mgnt</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-priv filter-live">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-individual filter-live">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/happy-team.webp" class="img-fluid" alt="">
-                          <div class="portfolio-links">
+                          <div class="portfolio-links" style="width: 100%!important;">
                             <a href="assets/img/portfolio/happy-team.webp" data-gall="portfolioGallery" class="venobox" title="App 3"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="portfolio-details.html" title="Visit"> <small><small><i class="bx bx-link"></i> Welfare </small></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Social Club Welfare</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-priv filter-live">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-live">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/requisition.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/requisition.jpg" data-gall="portfolioGallery" class="venobox" title="Card 1"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="portfolio-details.html" title="Visit"> <small><small><i class="bx bx-link"></i> Requisition </small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/requisition.jpg" data-gall="portfolioGallery" class="venobox" title="Petty Cash Flow Mngnt"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Petty Cash Flow Mngnt</button>
                           </div>
                         </div>
                       </div>
 
-                      <div class="col-lg-4 col-md-6 portfolio-item filter-priv filter-live">
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-colab filter-live">
+                        <div class="portfolio-wrap">
+                          <img src="assets/img/portfolio/fixed-assets.jpeg" class="img-fluid" alt="">
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/fixed-assets.jpeg" data-gall="portfolioGallery" class="venobox" title="Company Assets Mgnt"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Company Assets Mgnt</button>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-individual filter-dev">
+                        <div class="portfolio-wrap">
+                          <img src="assets/img/portfolio/membership.png" class="img-fluid" alt="">
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/membership.png" data-gall="portfolioGallery" class="venobox" title="Association Membership Mgnt"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Assoc. Membership Mgnt</button>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-colab filter-live">
                         <div class="portfolio-wrap">
                           <img src="assets/img/portfolio/tea-export.jpg" class="img-fluid" alt="">
-                          <div class="portfolio-links">
-                            <a href="assets/img/portfolio/tea-export.jpg" data-gall="portfolioGallery" class="venobox" title="Card 3"><small><i class="bx bx-plus"></i></small></a>
-                            <a href="portfolio-details.html" title="Visit"><small><small><i class="bx bx-link"></i> Export </small></small></a>
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/tea-export.jpg" data-gall="portfolioGallery" class="venobox" title="Cross Country Transport"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Cross Country Transport</button>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-lg-3 col-md-6 portfolio-item filter-colab filter-live">
+                        <div class="portfolio-wrap">
+                          <img src="assets/img/portfolio/SIOP.jpeg" class="img-fluid" alt="">
+                          <div class="portfolio-links" style="width: 100%!important;">
+                            <a href="assets/img/portfolio/SIOP.jpeg" data-gall="portfolioGallery" class="venobox" title="Sales & Distribution"><small><i class="bx bx-plus"></i></small></a>
+
+                            <button type="button" class="btn btn-light request-demo" title="Request A Demo">Sales & Distribution</button>
                           </div>
                         </div>
                       </div>
@@ -395,7 +450,7 @@
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>Services</h2>
+                      <h2 class="bold-text">Services</h2>
                       <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                     </div>
 
@@ -436,11 +491,11 @@
                 </section> --><!-- End Services Section -->
 
                 <!-- ======= Testimonials Section ======= -->
-                <!-- <section id="testimonials" class="testimonials section-bg">
+                <section id="testimonials" class="testimonials section-bg">
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>What Others Say</h2>
+                      <h2 class="bold-text">What Others Say</h2>
                       <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
                     </div>
 
@@ -449,58 +504,58 @@
                       <div class="testimonial-item" data-aos="fade-up">
                         <p>
                           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                          Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                          Loading...
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-1.jpg" class="testimonial-img" alt="">
-                        <h3>Mr. Richard Obore</h3>
-                        <h4>CEO Liver-Edge Technologies &amp; Developer</h4>
+                        <img src="assets/img/testimonials/user3th.jpeg" class="testimonial-img" alt="">
+                        <h3 class="bold-text">Mr. Richard Obore</h3>
+                        <h4>Senior Sofware Developer</h4>
                       </div>
 
                       <div class="testimonial-item" data-aos="fade-up" data-aos-delay="100">
                         <p>
                           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                          Export tempor illum tamen malis malis eram quae irure esse labore quem cillum quid cillum eram malis quorum velit fore eram velit sunt aliqua noster fugiat irure amet legam anim culpa.
+                          Loading...
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-2.jpg" class="testimonial-img" alt="">
-                        <h3>Mr. Godfrey Agaba </h3>
+                        <img src="assets/img/testimonials/user3th.jpeg" class="testimonial-img" alt="">
+                        <h3 class="bold-text">Mr. Godfrey Agaba </h3>
                         <h4>CEO Vendors Point Ltd</h4>
                       </div>
 
                       <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
                         <p>
                           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                          Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
+                          Loading...
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
-                        <h3>Okonye John Francis</h3>
-                        <h4>Developer</h4>
+                        <img src="assets/img/testimonials/user3th.jpeg" class="testimonial-img" alt="">
+                        <h3 class="bold-text">Mr. Okonye John Francis</h3>
+                        <h4>Software Engineer</h4>
                       </div>
 
                       <div class="testimonial-item" data-aos="fade-up" data-aos-delay="300">
                         <p>
                           <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                          Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                          Loading...
                           <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
-                        <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
-                        <h3>Okello Joel</h3>
-                        <h4>Developer @ URA</h4>
+                        <img src="assets/img/testimonials/user3th.jpeg" class="testimonial-img" alt="">
+                        <h3 class="bold-text">Innocent Kato</h3>
+                        <h4>Logistics & Transport Manager</h4>
                       </div>
 
                     </div>
 
                   </div>
-                </section> --><!-- End Testimonials Section -->
+                </section> <!-- End Testimonials Section -->
 
                 <!-- ======= Contact Section ======= -->
                 <section id="contact" class="contact">
                   <div class="container">
 
                     <div class="section-title">
-                      <h2>Contact</h2>
+                      <h2 class="bold-text">Contact</h2>
                       <p>For inquiries about the services I can offer or to hire my services, please don't hesitate to reach out to me with message.</p>
                     </div>
 
@@ -574,4 +629,74 @@
         <!-- </div> -->
     <!-- </div> -->
 <!-- </div> -->
+
+  <!-- Modal -->
+  <div class="modal fade" id="requestDemoModel" tabindex="-1" role="dialog" aria-labelledby="requestDemoModelTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h4 class="modal-title text-danger" id="requestDemoModelLongTitle"> Request A Demo </h4>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <form action="#" method="POST" role="form" class="php-email-form">
+            @csrf
+
+            <div class="form-group">
+              <label for="name">Full Name</label>
+              <input type="text"
+                     name="name"
+                     class="form-control"
+                     id="demo-name"
+                     data-rule="minlen:4"
+                     data-msg="Please enter at least 4 chars"/>
+              <div class="validate"></div>
+            </div>
+
+            <div class="form-group">
+              <label for="name">Your Email</label>
+              <input type="email"
+                     class="form-control"
+                     name="email"
+                     id="demo-email"
+                     data-rule="email"
+                     data-msg="Please enter a valid email"/>
+              <div class="validate"></div>
+            </div>
+
+            <div class="form-group">
+              <label for="name">Message</label>
+              <textarea class="form-control"
+                        name="message"
+                        id="request-message"
+                        rows="5"
+                        data-rule="required"></textarea>
+              <div class="validate"></div>
+            </div>
+          </form>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancel</button>
+          <button type="button" class="btn btn-primary" disabled> Submit </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  @push('scripts')
+  <script>
+    $(function() {
+      $('#portfolio-div').on('click','.request-demo', function () {
+        let sysName = $(this).text();
+        let requestMessage = `I am interested in knowing more about the "${sysName}" system. I request for a demo`;
+
+        $('#request-message').val(requestMessage);
+        $('#requestDemoModel').modal()
+      });
+    });
+  </script>
+  @endpush
+
 @endsection
