@@ -1,0 +1,65 @@
+#version: '3.8'
+
+networks:
+  ocl_site_network:
+  # # Uncomment the following lines fir the system to work behind reverse proxy
+  proxy_network:
+    name: frontend_network
+    external: true
+
+services:
+
+  # Application Service
+  ocl-site:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ocl-site
+    restart: unless-stopped
+    working_dir: /site
+    volumes:
+      - ./src:/site
+      - .env:/site/.env # consider using long format here so as to trigger error in case of missing .env file
+      - ./docker/php/local.ini:/usr/local/etc/php/conf.d/local.ini
+    environment:
+      - DB_HOST=${DB_HOST}
+      # - ASSET_URL=${ASSET_URL}
+    networks:
+      - ocl_site_network
+ 
+  #Webserver Service - Nginx
+  ocl-nginx:
+    image: nginx:alpine
+    restart: unless-stopped
+    ports:
+      - '${APP_PORT:-7055}:${LARAVEL_PORT_NUMBER:-80}'
+    volumes:
+      # This mount is correct for Nginx to serve the assets
+      - ./src:/site
+      - ./docker/nginx/conf.d:/etc/nginx/conf.d
+    networks:
+      - ocl_site_network
+      # Uncomment the following lines fir the system to work behind reverse proxy
+      - proxy_network
+
+  # Database Service - mariadb
+  ocl-db:
+    image: mariadb:10.3
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: secret
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_USER: ${DB_USERNAME}
+      MYSQL_PASSWORD: ${DB_PASSWORD}
+    volumes:
+      - appdb_data:/var/lib/mysql
+      # - ./ocldb-datadump.sql:/docker-entrypoint-initdb.d/dbdump.sql # Mount the SQL file
+    networks:
+      - ocl_site_network
+    profiles:
+      - dev
+
+# Volumes
+volumes:
+ appdb_data:
+  driver: local
